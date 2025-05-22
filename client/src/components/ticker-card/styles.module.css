@@ -1,0 +1,61 @@
+.price-info-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.price-info-table th,
+.price-info-table td {
+  text-align: left;
+  width: 10%;
+}
+
+.price-info-table td {
+  color: var(--on-primary-text-color);
+  font-size: 0.9rem;
+}
+
+.price-card {
+  background-color: var(--primary-background);
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.price-card:hover {
+  transform: translateY(-5px);
+}
+
+.price-card h3 {
+  margin: 0 0 15px 0;
+  color: var(--on-primary-text-color);
+  font-size: 1.2rem;
+}
+
+.price-info div {
+  color: var(--on-primary-text-color);
+  font-size: 0.9rem;
+}
+
+.change {
+  font-weight: bold;
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.positive {
+  background-color: var(--green);
+  color: var(--on-primary-text-color);
+}
+
+.negative {
+  background-color: var(--red);
+  color: var(--on-primary-text-color);
+}
+
+.bond {
+  font-size: 1.2rem;
+}

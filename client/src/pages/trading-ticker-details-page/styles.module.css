@@ -1,0 +1,79 @@
+.main-container {
+  display: grid;
+  grid-template-areas: "details form" "holding form";
+  gap: 3rem;
+}
+
+.main-container-with-orders {
+  grid-template-areas: "details orders" "holding orders" "form orders  ";
+}
+
+.page-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 20px 100px;
+}
+
+.orders-container {
+  grid-area: form;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.back-button:hover {
+  background-color: var(--primary-color);
+}
+
+.title {
+  margin: 0;
+  font-size: 2rem;
+}
+
+.trade-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  background-color: var(--primary-background);
+  padding: 1rem;
+  border-radius: 12px;
+}
+
+.trade-form-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+
+.buy-button {
+  flex: 1;
+}
+
+.trade-form-input {
+  flex: 1;
+}
+
+.sell-button {
+  flex: 1;
+}
+
+.error-message {
+  max-width: 400px;
+  color: var(--red);
+}
+
+.symbol-holding-container {
+  grid-area: holding;
+  align-self: flex-start;
+  background-color: var(--primary-background);
+  padding: 0rem 1rem;
+  border-radius: 12px;
+}

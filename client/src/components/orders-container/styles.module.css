@@ -1,0 +1,18 @@
+.main-container {
+  display: flex;
+  grid-area: orders;
+  align-self: start;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--primary-background);
+}
+
+.orders-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}

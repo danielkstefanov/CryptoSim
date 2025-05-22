@@ -1,0 +1,30 @@
+.order-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--secondary-background);
+}
+
+.order-info-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+}
+
+.order-info-table th,
+.order-info-table td {
+  text-align: center;
+  border: 1px dotted var(--on-primary-text-color);
+}
+
+.buy {
+  background-color: var(--green);
+}
+
+.sell {
+  background-color: var(--red);
+}

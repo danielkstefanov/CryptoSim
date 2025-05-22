@@ -1,0 +1,30 @@
+.login-form {
+  margin: 100px auto;
+  width: 400px;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  background-color: var(--primary-background);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 16px;
+  font-size: 28px;
+  color: var(--on-primary-text-color);
+}
+
+.button {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.form-errors {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: var(--error);
+}

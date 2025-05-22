@@ -1,0 +1,65 @@
+.price-card {
+  background-color: var(--primary-background);
+  align-self: start;
+  grid-area: details;
+  border-radius: 12px;
+  padding: 2rem;
+}
+
+.main-price {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
+
+.main-price h2 {
+  margin: 0 0 1rem 0;
+  color: var(--text-color);
+  font-size: 1.2rem;
+}
+
+.price {
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--text-color);
+  margin-bottom: 0.5rem;
+}
+
+.change {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.positive {
+  background-color: var(--green);
+}
+
+.negative {
+  background-color: var(--red);
+}
+
+.stats-grid {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1.5rem;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.stat-item label {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.stat-item value {
+  color: var(--text-color);
+  font-size: 1.2rem;
+  font-weight: 500;
+}

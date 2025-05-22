@@ -1,0 +1,12 @@
+.page-footer {
+  width: 100%;
+  text-align: center;
+  background-color: var(--primary-background);
+  color: var(--on-primary-background);
+  padding: 20px 0px;
+}
+
+.footerText {
+  margin: 0;
+  font-size: 18px;
+}
