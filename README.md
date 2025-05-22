@@ -4,7 +4,36 @@ CryptoSim is a full-stack web application that provides a risk-free environment 
 
 <p align="center">
   <a href="https://i.postimg.cc/SRCTGthm/Screenshot-2025-05-22-233201.png">
-    <img src="https://i.postimg.cc/SRCTGthm/Screenshot-2025-05-22-233201.png" alt="Game Logo" width="250">
+    <img src="https://i.postimg.cc/SRCTGthm/Screenshot-2025-05-22-233201.png" alt="Game Logo" width="400">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://i.postimg.cc/W1X9SkQq/Screenshot-2025-05-22-233214.png">
+    <img src="https://i.postimg.cc/W1X9SkQq/Screenshot-2025-05-22-233214.png" alt="Game Logo" width="400">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://i.postimg.cc/TYjNLS09/Screenshot-2025-05-22-233312.png">
+    <img src="https://i.postimg.cc/TYjNLS09/Screenshot-2025-05-22-233312.png" alt="Game Logo" width="400">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://i.postimg.cc/nhHRvkwt/Screenshot-2025-05-22-233458.png">
+    <img src="https://i.postimg.cc/nhHRvkwt/Screenshot-2025-05-22-233458.png" alt="Game Logo" width="400">
+  </a>
+</p>
+<p align="center">
+  <a href="https://i.postimg.cc/QNTysVWv/Screenshot-2025-05-22-233524.png">
+    <img src="https://i.postimg.cc/QNTysVWv/Screenshot-2025-05-22-233524.png" alt="Game Logo" width="400">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://i.postimg.cc/28NX5mQy/Screenshot-2025-05-22-233533.png">
+    <img src="https://i.postimg.cc/28NX5mQy/Screenshot-2025-05-22-233533.png" alt="Game Logo" width="400">
   </a>
 </p>
 
