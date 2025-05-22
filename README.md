@@ -3,7 +3,7 @@
 CryptoSim is a full-stack web application that provides a risk-free environment for users to practice cryptocurrency trading using real-time market data. The application allows users to simulate buying and selling cryptocurrencies without using real money, making it an ideal platform for learning and practicing trading strategies.
 
 <p align="center">
-  <a href="https://postimg.cc/3dDN7Z2p">
+  <a href="https://i.postimg.cc/SRCTGthm/Screenshot-2025-05-22-233201.png">
     <img src="https://i.postimg.cc/SRCTGthm/Screenshot-2025-05-22-233201.png" alt="Game Logo" width="250">
   </a>
 </p>
