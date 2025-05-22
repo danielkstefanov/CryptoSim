@@ -19,7 +19,7 @@ The project follows a modern client-server architecture:
 - RESTful API design
 - WebSocket integration for real-time data
 - JWT-based authentication
-- SQL database for persistent storage
+- PostgreSQL database
 
 ## Key Features
 
